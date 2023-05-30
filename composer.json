@@ -1,0 +1,16 @@
+{
+  "name": "majie721/webmanenv",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin majie721/webmanenv",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Majie721\\WebmanEnv\\": "src"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  }
+}
