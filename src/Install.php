@@ -1,5 +1,5 @@
 <?php
-namespace Majie721\Webmanenv;
+namespace WebmanEnv;
 
 class Install
 {
